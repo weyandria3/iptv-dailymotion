@@ -29,4 +29,10 @@ jobs:
           git config user.name "IPTV Refresher"
           git config user.email "actions@github.com"
           git add "IPTVMIA 1.m3u"
-          git diff --cached --quiet || (git commit -m "Aggiornamento playlist" && git push)
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica alla playlist"
+            exit 0
+          fi
+          git commit -m "Aggiornamento playlist"
+          git pull --rebase origin main
+          git push origin main
