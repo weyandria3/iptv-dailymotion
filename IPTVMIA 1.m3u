@@ -345,7 +345,7 @@ https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d_output_0.m3u
 https://604e46ac2bdee.streamlock.net:1936/radiosardegna/radiosardegna/chunklist_w1921556787.m3u8
 
 #EXTINF:-1 tvg-id="SardegnaUno.it" tvg-name="Sardegna Uno" tvg-chno="99" tvg-logo="https://www.sardegna1.tv/wp-content/uploads/2021/03/logo-sardegna1.png" group-title="Sardegna",Sardegna Uno
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(fHBIZoWaGLp9JU9S1k1b2bduckjDMgj8SWsQI-g5FxiFVJNzY2_QEW73MmlnILTUPQmC_nin0L0oTKe2kLiw0VdCXrrVlqxR5a--Gdy-wz8_fEnH_grtXNfuceyzmj-L)/cloud/3/x893du6/d/live-720.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x893du6.m3u8?sec=L9CLi1c8KXAuHudRSkgGsQheweeq79hWjP5zwbGGQs1IACNU5mVph9SH5g67ra_fsjPeK5-mzwNE30Z5G-NEmNo_6d3upXT3JnqcdwyLWLQ&dmTs=41160&dmV1st=79D2A50421D076EDB04751EE4C05212A
 
 #EXTINF:-1 tvg-chno="101" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png", Rai 4K
 #EXTSIZE: Medium
